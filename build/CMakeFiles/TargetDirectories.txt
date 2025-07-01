@@ -1,0 +1,3 @@
+/home/chamoli/Desktop/Booking System/build/CMakeFiles/MovieBookingSystem.dir
+/home/chamoli/Desktop/Booking System/build/CMakeFiles/edit_cache.dir
+/home/chamoli/Desktop/Booking System/build/CMakeFiles/rebuild_cache.dir
